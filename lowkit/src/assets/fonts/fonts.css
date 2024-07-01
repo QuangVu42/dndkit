@@ -1,0 +1,15 @@
+@font-face {
+    font-family: servetica_medium;
+    src: url(./files/SERVETICA_MEDIUM_PUBLIC.ttf);
+}
+.font-servetica_medium {
+    font-family: servetica_medium !important;
+}
+
+@font-face {
+    font-family: servetica_heavy;
+    src: url(./files/SERVETICA_HEAVY_PUBLIC.ttf);
+}
+.font-servetica_heavy {
+    font-family: servetica_heavy !important;
+}
